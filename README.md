@@ -27,4 +27,4 @@ Find all files ending with pdf  in a directory and subdirectories and copy them 
 
 ## Replace all the spaces in a given file by an underscore in-place
 
-`sed -i 's/\ /_/g' filein
+`sed -i 's/\ /_/g' filein`
